@@ -139,6 +139,7 @@ Simple daily used git commands
 ## PUSH
 <table border=0>
   <tr>
+    <td>
 git push origin [branch name]</td>
 <td>- Push a branch to your remote repository</td>
      </tr>
